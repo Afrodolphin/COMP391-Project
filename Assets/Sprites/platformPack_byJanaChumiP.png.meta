@@ -1,0 +1,1357 @@
+fileFormatVersion: 2
+guid: 9c0764d66e85cbf43b5d7543ca0c5669
+timeCreated: 1523673022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: platformPack_byJanaChumiP_0
+    21300002: platformPack_byJanaChumiP_1
+    21300004: platformPack_byJanaChumiP_2
+    21300006: platformPack_byJanaChumiP_3
+    21300008: platformPack_byJanaChumiP_4
+    21300010: platformPack_byJanaChumiP_5
+    21300012: platformPack_byJanaChumiP_6
+    21300014: platformPack_byJanaChumiP_7
+    21300016: platformPack_byJanaChumiP_8
+    21300018: platformPack_byJanaChumiP_9
+    21300020: platformPack_byJanaChumiP_10
+    21300022: platformPack_byJanaChumiP_11
+    21300024: platformPack_byJanaChumiP_12
+    21300026: platformPack_byJanaChumiP_13
+    21300028: platformPack_byJanaChumiP_14
+    21300030: platformPack_byJanaChumiP_15
+    21300032: platformPack_byJanaChumiP_16
+    21300034: platformPack_byJanaChumiP_17
+    21300036: platformPack_byJanaChumiP_18
+    21300038: platformPack_byJanaChumiP_19
+    21300040: platformPack_byJanaChumiP_20
+    21300042: platformPack_byJanaChumiP_21
+    21300044: platformPack_byJanaChumiP_22
+    21300046: platformPack_byJanaChumiP_23
+    21300048: platformPack_byJanaChumiP_24
+    21300050: platformPack_byJanaChumiP_25
+    21300052: platformPack_byJanaChumiP_26
+    21300054: platformPack_byJanaChumiP_27
+    21300056: platformPack_byJanaChumiP_28
+    21300058: platformPack_byJanaChumiP_29
+    21300060: platformPack_byJanaChumiP_30
+    21300062: platformPack_byJanaChumiP_31
+    21300064: platformPack_byJanaChumiP_32
+    21300066: platformPack_byJanaChumiP_33
+    21300068: platformPack_byJanaChumiP_34
+    21300070: platformPack_byJanaChumiP_35
+    21300072: platformPack_byJanaChumiP_36
+    21300074: platformPack_byJanaChumiP_37
+    21300076: platformPack_byJanaChumiP_38
+    21300078: platformPack_byJanaChumiP_39
+    21300080: platformPack_byJanaChumiP_40
+    21300082: platformPack_byJanaChumiP_41
+    21300084: platformPack_byJanaChumiP_42
+    21300086: platformPack_byJanaChumiP_43
+    21300088: platformPack_byJanaChumiP_44
+    21300090: platformPack_byJanaChumiP_45
+    21300092: platformPack_byJanaChumiP_46
+    21300094: platformPack_byJanaChumiP_47
+    21300096: platformPack_byJanaChumiP_48
+    21300098: platformPack_byJanaChumiP_49
+    21300100: platformPack_byJanaChumiP_50
+    21300102: platformPack_byJanaChumiP_51
+    21300104: platformPack_byJanaChumiP_52
+    21300106: platformPack_byJanaChumiP_53
+    21300108: platformPack_byJanaChumiP_54
+    21300110: platformPack_byJanaChumiP_55
+    21300112: platformPack_byJanaChumiP_56
+    21300114: platformPack_byJanaChumiP_57
+    21300116: platformPack_byJanaChumiP_58
+    21300118: platformPack_byJanaChumiP_59
+    21300120: platformPack_byJanaChumiP_60
+    21300122: platformPack_byJanaChumiP_61
+    21300124: platformPack_byJanaChumiP_62
+    21300126: platformPack_byJanaChumiP_63
+    21300128: platformPack_byJanaChumiP_64
+    21300130: platformPack_byJanaChumiP_65
+    21300132: platformPack_byJanaChumiP_66
+    21300134: platformPack_byJanaChumiP_67
+    21300136: platformPack_byJanaChumiP_68
+    21300138: platformPack_byJanaChumiP_69
+    21300140: platformPack_byJanaChumiP_70
+    21300142: platformPack_byJanaChumiP_71
+    21300144: platformPack_byJanaChumiP_72
+    21300146: platformPack_byJanaChumiP_73
+    21300148: platformPack_byJanaChumiP_74
+    21300150: platformPack_byJanaChumiP_75
+    21300152: platformPack_byJanaChumiP_76
+    21300154: platformPack_byJanaChumiP_77
+    21300156: platformPack_byJanaChumiP_78
+    21300158: platformPack_byJanaChumiP_79
+    21300160: platformPack_byJanaChumiP_80
+    21300162: platformPack_byJanaChumiP_81
+    21300164: platformPack_byJanaChumiP_82
+    21300166: platformPack_byJanaChumiP_83
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 521
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_10
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_11
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 435
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 436
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_20
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 436
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_23
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_30
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 351
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_34
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_35
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_43
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 266
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_45
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_46
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_47
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 266
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_53
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_55
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_56
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 180
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_57
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_58
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_59
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 180
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_64
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_66
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_67
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 95
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_69
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_70
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_71
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 95
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_77
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_78
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_79
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_80
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 10
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_81
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 11
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_82
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_83
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
